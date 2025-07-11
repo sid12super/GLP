@@ -12,8 +12,6 @@ This project builds an end-to-end bioinformatics pipeline to classify DNA sequen
 
 This repository contains the coordinate files (`promoters.bed`, `introns.bed`) needed to generate the datasets. The full human genome file and the final FASTA files are too large to be stored here and must be generated locally.
 
-**Step 1: Download the Human Genome**
-Run the following command in the `data/` directory to download the hg38 genome (~3-4 GB).
 ```bash
 curl -O [http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.2bit](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.2bit)
 
