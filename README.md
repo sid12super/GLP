@@ -5,7 +5,6 @@ This project builds an end-to-end bioinformatics pipeline to classify DNA sequen
 ## Workflow Overview
 1.  **Data Acquisition**: Promoter and non-promoter sequences are downloaded from public databases.
 2.  **Model Development**: A CNN is built and trained in a Jupyter Notebook (`notebooks/`).
-3.  **Workflow Automation**: The entire pipeline is automated using Nextflow.
 
 ## Data Acquisition
 
