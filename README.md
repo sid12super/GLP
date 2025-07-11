@@ -1,6 +1,6 @@
 # Scalable Genomic Sequence Processing Pipeline
 
-This project builds an end-to-end bioinformatics pipeline to classify DNA sequences (promoters vs. non-promoters) using a CNN, with data processing designed to scale using Apache Spark.
+This project builds an end-to-end bioinformatics pipeline to classify DNA sequences (promoters vs. non-promoters) using a CNN, with data processing.
 
 ## Workflow Overview
 1.  **Data Acquisition**: Promoter and non-promoter sequences are downloaded from public databases.
